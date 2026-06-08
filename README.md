@@ -128,7 +128,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the Creative Commons Legal Code
+
+CC0 1.0 Universal
 
 ---
 
